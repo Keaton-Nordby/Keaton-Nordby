@@ -1,7 +1,10 @@
-- Hi, I’m Keaton-Nordby
-- Here are some of the projects I have worked on or are wokring on presently
-  
-<!---
-Keaton-Nordby/Keaton-Nordby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Keaton, and welcome to my GitHub! I'm passionate about technology and coding, and here you'll find a few projects that I've worked on. These projects demonstrate my skills in web development and data analysis using:
+
+- **HTML** & **CSS** for building responsive and interactive websites
+- **JavaScript** for adding dynamic functionality
+- **Python** for general-purpose programming
+- **NumPy** for data manipulation and analysis
+
+Feel free to explore the repositories, and don’t hesitate to reach out if you have any questions or opportunities!
+
+Looking forward to connecting!
