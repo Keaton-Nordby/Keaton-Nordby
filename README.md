@@ -12,13 +12,6 @@ Machine Learning: Python (NumPy, Pandas, scikit-learn)
 
 Other: Java (OOP, Spring Boot)
 
-🚀 Notable Projects
-Price-Wise: eCommerce price tracker built with Next.js and Bright Data
-
-Secure Blog: Full-stack Node.js blog app with JWT authentication
-
-PrepPal: Job interview prep platform with Next.js and Firebase
-
 🎯 Goal
 I aim to create high-performance, user-friendly solutions that tackle real-world problems and improve user experience. Always looking to learn and grow through new challenges and technologies.
 
