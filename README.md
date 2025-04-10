@@ -1,18 +1,16 @@
 👋 Hi, I'm Keaton!
-I'm a Software Engineer passionate about building scalable applications and solving real-world problems. 🚀 I specialize in full-stack development and machine learning. Let's create something amazing together! 💻✨
+I'm a Software Engineer passionate about building scalable applications and solving real-world problems. 🚀 Currently, I'm expanding my skill set with PostgreSQL, Java, and AWS Spring Boot.
 
-🔧 Skills & Technologies
-Frontend: React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript
+🔧 Skills
+Frontend: React.js, Next.js, Tailwind CSS
 
-Backend: Node.js, Express.js, Python, Firebase
+Backend: Node.js, Express.js, Python, Firebase, AWS, Spring Boot
 
-Databases: MySQL, MongoDB, SQLite, Appwrite
+Databases: MySQL, MongoDB, PostgreSQL
 
 Machine Learning: Python (NumPy, Pandas, scikit-learn)
 
-Version Control: Git, GitHub
-
-Tools: VS Code, PyCharm, Bright Data, Cron Jobs
+Other: Java (OOP, Spring Boot)
 
 🚀 Notable Projects
 Price-Wise: eCommerce price tracker built with Next.js and Bright Data
@@ -22,7 +20,7 @@ Secure Blog: Full-stack Node.js blog app with JWT authentication
 PrepPal: Job interview prep platform with Next.js and Firebase
 
 🎯 Goal
-I aim to create high-performance, user-friendly solutions that tackle real-world problems.
+I aim to create high-performance, user-friendly solutions that tackle real-world problems and improve user experience. Always looking to learn and grow through new challenges and technologies.
 
 📬 Contact
 📧 keatonnordby4@gmail.com | 🔗 LinkedIn | 👨‍💻 GitHub
