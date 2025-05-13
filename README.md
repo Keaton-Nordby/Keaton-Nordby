@@ -1,19 +1,40 @@
-👋 Hi, I'm Keaton!
-I'm a Software Engineer passionate about building scalable applications and solving real-world problems. 🚀 Currently, I'm expanding my skill set with PostgreSQL, Java, and AWS Spring Boot.
+# 👋 Hi, I'm Keaton Nordby
 
-🔧 Skills
-Frontend: React.js, Next.js, Tailwind CSS
+I'm a **Software Engineer** with a passion for building **scalable, user-centric applications** and solving real-world problems with clean, maintainable code. I'm currently expanding my expertise in **PostgreSQL, Java, and AWS with Spring Boot** to deepen my backend and cloud engineering capabilities.
 
-Backend: Node.js, Express.js, Python, Firebase, AWS, Spring Boot
+---
 
-Databases: MySQL, MongoDB, PostgreSQL
+## 🛠️ Technical Skills
 
-Machine Learning: Python (NumPy, Pandas, scikit-learn)
+**Frontend:**  
+React.js · Next.js · Tailwind CSS
 
-Other: Java (OOP, Spring Boot)
+**Backend:**  
+Node.js · Express.js · Python · Firebase · AWS (Lambda, S3, EC2) · Spring Boot
 
-🎯 Goal
-I aim to create high-performance, user-friendly solutions that tackle real-world problems and improve user experience. Always looking to learn and grow through new challenges and technologies.
+**Databases:**  
+MySQL · MongoDB · PostgreSQL
 
-📬 Contact
-📧 keatonnordby4@gmail.com | 🔗 LinkedIn | 👨‍💻 GitHub
+**Machine Learning & Data:**  
+Python (NumPy · Pandas · scikit-learn)
+
+**Languages & Tools:**  
+Java (OOP · Spring Boot) · Git · GitHub · VS Code · REST APIs
+
+---
+
+## 🎯 My Focus
+
+I strive to build **high-performance, intuitive software** that enhances user experience and delivers measurable value. I'm motivated by continuous learning and enjoy collaborating with others to take on new technical challenges—from startups to large-scale systems.
+
+---
+
+## 📫 Let's Connect
+
+📧 keatonnordby4@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/keaton-nordby-a056872a7/)  
+👨‍💻 [GitHub](https://github.com/Keaton-Nordby)
+
+---
+
+_Thanks for stopping by! I'm always open to opportunities to collaborate, contribute, and grow._
