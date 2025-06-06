@@ -10,7 +10,7 @@ I'm a **Software Engineer** with a passion for building **scalable, user-centric
 React.js · Next.js · Tailwind CSS
 
 **Backend:**  
-Node.js · Express.js · Python · Firebase · AWS (Lambda, S3, EC2) · Spring Boot
+Node.js · Express.js · Python · Firebase · AWS (Micro-services) · Spring Boot
 
 **Databases:**  
 MySQL · MongoDB · PostgreSQL
