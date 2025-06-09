@@ -33,7 +33,6 @@ I strive to build **high-performance, intuitive software** that enhances user ex
 
 📧 keatonnordby4@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/keaton-nordby-a056872a7/)  
-👨‍💻 [GitHub](https://github.com/Keaton-Nordby)
 
 ---
 
