@@ -1,22 +1,19 @@
 # 👋 Hi, I'm Keaton Nordby
-I’m a **Software Engineer** passionate about building scalable, user-focused applications and solving real-world problems with clean, efficient code.  
-Comfortable with **TypeScript**, **Java**, and **Python**.
-Currently sharpening my **backend and cloud skills** with **PostgreSQL**, **Java**, and **AWS (Spring Boot)**.
+
+I'm a software engineer who enjoys building scalable, user-centered applications and solving real-world problems with clean, efficient code.  
+Currently expanding my backend and cloud skills with PostgreSQL, Java, and AWS using Spring Boot.
 ---
 
-## 🛠️ Technical Skills  
-**Frontend:** React.js · Next.js · Tailwind CSS  
-**Backend:** Node.js · Express.js · Python · Firebase · AWS (Microservices) · Spring Boot  
-**Databases:** MySQL · MongoDB · PostgreSQL  
-**Machine Learning:** NumPy · Pandas · scikit-learn  
-**Languages & Tools:** Java (OOP, Spring Boot) · Git · GitHub · VS Code · REST APIs  
+## 🧰 Languages & Tools  
+TypeScript · Java · Python · React.js · Node.js · Express.js · Tailwind CSS ·  
+PostgreSQL · MySQL · MongoDB · AWS · Git · GitHub · REST APIs  
 ---
 
 ## 🎯 Focus  
-I aim to create **high-performance, intuitive software** that delivers measurable impact.  
-Driven by continuous learning, I enjoy tackling meaningful technical challenges — whether building for startups or scaling enterprise systems.
-
+I like creating intuitive, high-performance software that delivers measurable impact.  
+Always learning — from backend architecture to data-driven systems.
 ---
+
 ## 📫 Connect  
-📧 **Email:** [keatonnordby4@gmail.com](mailto:keatonnordby4@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/keaton-nordby](https://linkedin.com/in/keaton-nordby)
+Email: [keatonnordby4@gmail.com](mailto:keatonnordby4@gmail.com)  
+LinkedIn: [linkedin.com/in/keaton-nordby](https://linkedin.com/in/keaton-nordby)
