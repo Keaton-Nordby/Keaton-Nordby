@@ -1,4 +1,4 @@
-👋 Hi, I'm Keaton Nordby
+```👋 Hi, I'm Keaton Nordby
 
 I'm a software engineer who enjoys building scalable, user-centered applications and solving real-world problems with clean, efficient code.
 Currently expanding my backend and cloud skills with PostgreSQL, Java, and AWS using Spring Boot.
@@ -16,3 +16,4 @@ Always learning — from backend architecture to data-driven systems.
 Connect:
 Email: keatonnordby4@gmail.com
 LinkedIn: linkedin.com/in/keaton-nordby
+```
