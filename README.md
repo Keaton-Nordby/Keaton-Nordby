@@ -1,10 +1,23 @@
-Hi, I'm Keaton Nordby
+👋 Hi, I'm Keaton Nordby
 
-I'm a software engineer who enjoys building scalable, user-centered application and solving real-world problems with clean, efficient code.
+I’m a software engineer who enjoys building scalable, user-focused applications and solving real-world problems with clean, efficient code. I care about writing maintainable software, learning continuously, and delivering meaningful solutions.
 
-Languages and Tools:
-Java, Python, TypeScript, JavaScript, React.js, Node.js, Express.js, Tailwind CSS, PostgreSQL, MySQL, MongoDB, AWS, GIT, GITHUB, REST API's
+🛠️ Languages & Tools
 
-Connect:
+Languages:
+Java · Python · TypeScript · JavaScript
+
+Frameworks & Libraries:
+React.js · Node.js · Express.js · Tailwind CSS
+
+Databases:
+PostgreSQL · MySQL · MongoDB
+
+Cloud & DevOps:
+AWS · Git · GitHub · REST APIs
+
+📫 Connect With Me
+
 Email: keatonnordby4@gmail.com
+
 LinkedIn: linkedin.com/in/keaton-nordby
